@@ -15,6 +15,8 @@ We built ASTRA with 2 powers:
 Retain (save 10 deals at a time) -> Recall (find relevant precedent) -> Personalized Answer (3-step playbook)
 
 ## Terminal Proof
+Saving 10 deals to astra-deals...
+DONE! This demonstrates Hindsight memory learning!
 ## Example
 Client: "Price too high"
 ASTRA recalls: How we closed similar deal in March with discount + ROI logic
